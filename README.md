@@ -1,5 +1,5 @@
 # Responsive Portfolio 
-This assignment presents a reponsive portfolio that render on a variety of screen sizes. The portfolio has been created using HTML, CSS. and Bootstrap has been used as the framework for the layout and components.
+This assignment presents a reponsive portfolio that render on a variety of screen sizes. The portfolio has been created using HTML, CSS. and Bootstrap has been used as the framework for the layout and components.there is the acsses to my CV.
 
 
 ## Objective
@@ -32,7 +32,7 @@ Please visit the site hosted on GitHub Pages.
 
 ```
 ## Files 
-The app has 1 page which is index.html.there is 1 Javascript file. And, styles.css for styling the app.
+The app has 4 pages which is index.html.there is 4 CSS files for styling the app.
 
 ## Screenshot
 Please visit [my website](https://eli-33.github.io/ElaheJamshidiAraghi.github.io/).
