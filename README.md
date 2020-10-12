@@ -1,11 +1,17 @@
-Responsive Portfolio - Homework Assigment 2
+# Responsive Portfolio 
 This assignment presents a reponsive portfolio that render on a variety of screen sizes. The portfolio has been created using HTML, CSS. and Bootstrap has been used as the framework for the layout and components.
 
-Objective
+
+## Objective
+
+```
 Use Bootstrap CSS Framework to create a mobile responsive portfolio and layout.
 w3school for link icons and contact form.
+```
 
-Acceptance criteria
+## Acceptance Criteria
+
+```
 Functional, deployed application
 GitHub repository with README describing the project
 Navbar must be consistent on each page.
@@ -24,13 +30,17 @@ css	Supplemental styles and media queries
 various files	assets/images/	
 Please visit the site hosted on GitHub Pages.
 
-Screenshot
-Landing Page About me Portfolio Contact Me Contact Submitted
+```
+## Files 
+The app has 1 page which is index.html.there is 1 Javascript file. And, styles.css for styling the app.
 
-License
+## Screenshot
+Please visit [my website]().
+
+## License
 Due to the nature of this exercise, no license has been included.
 
-Tools used
+## Tools used
 GitHub - Code repository and page hosting via GitHub Pages
 Visual Studio Code - For editing code
 
