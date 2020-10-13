@@ -34,8 +34,12 @@ Please visit the site hosted on GitHub Pages.
 ## Files 
 The app has 4 pages which is index.html.there is 4 CSS files for styling the app.
 
-## Screenshot
+## Accessing the site
+
 Please visit [my website](https://eli-33.github.io/ElaheJamshidiAraghi.github.io/).
+
+## Screenshot
+added in Issues.
 
 ## License
 Due to the nature of this exercise, no license has been included.
